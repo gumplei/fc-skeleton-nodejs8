@@ -14,3 +14,4 @@ dist
 jdt.ls-java-project
 lib
 node_modules
+.fun
